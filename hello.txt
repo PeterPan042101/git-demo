@@ -15,4 +15,4 @@ hello peter, hello git!
 hello peter, hello git!
 hello peter, hello git!
 hello peter, hello git!
-hello peter, hello git!
+hello peter, hello git! hot-fix test
